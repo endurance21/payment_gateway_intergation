@@ -1,4 +1,4 @@
-# Razorpay E-Commerce Integration Demo
+# Razorpay E-Commerce Integration 
 
 A complete end-to-end integration of Razorpay payment gateway with e-commerce website using React.js and Node.js.
 
